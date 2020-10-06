@@ -1,2 +1,2 @@
 # Background Generator
-https://kumararunav.github.io/BackgroundGenerator/
+[BASIC JAVASCRIPT CONCEPT](https://kumararunav.github.io/BackgroundGenerator/)
